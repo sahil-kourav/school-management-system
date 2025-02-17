@@ -14,6 +14,7 @@ const TeacherDetails = () => {
 
     useEffect(() => {
         dispatch(getTeacherDetails(teacherID));
+        console.log('Teacher ID:', teacherID);
     }, [dispatch, teacherID]);
 
     if (error) {
