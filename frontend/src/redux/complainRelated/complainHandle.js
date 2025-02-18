@@ -13,7 +13,7 @@ export const getAllComplains = (id, address) => async (dispatch) => {
     try {
         const result = await axios.get(`${REACT_APP_BASE_URL}/${address}List/${id}`);
         if (result.data.message) {
-            dispatch(getFailed(result.data.message));
+            dispatch(getFailed(result.data.message) );
         } else {
             dispatch(getSuccess(result.data));
         }
