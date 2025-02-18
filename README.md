@@ -39,7 +39,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/sahil-kourav/SMS.git
+git clone https://github.com/sahil-kourav/school-management-system.git
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -184,6 +184,6 @@ If the issue persists, feel free to contact me for further assistance.
 Don't forget to leave a star for this project if you found the solution helpful. Thank you!
 
 # Deployment
-* Render - server side
+* Vercel - server side
 * Netlify - client side
 
