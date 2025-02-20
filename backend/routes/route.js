@@ -36,7 +36,7 @@ router.get("/Admin/:id", getAdminDetail)
 
 // Student
 
-router.post('/StudentReg', studentRegister);
+router.post('/StudentReg', studentRegister)
 router.post('/StudentLogin', studentLogIn)
 
 router.get("/Students/:id", getStudents)

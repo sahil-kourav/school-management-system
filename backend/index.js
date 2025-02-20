@@ -53,6 +53,10 @@ app.use(cors());
 
 app.use('/', Routes);
 
+app.get('/', (req,res)=>{
+    res.send("hello");
+})
+
 app.listen(PORT, () => {
     console.log(`Server started at port no. ${PORT}`);
 });

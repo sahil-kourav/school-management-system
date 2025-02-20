@@ -187,6 +187,6 @@ If the issue persists, feel free to contact me for further assistance.
 Don't forget to leave a star for this project if you found the solution helpful. Thank you!
 
 # Deployment
-* Render - server side
+* Vercel - server side
 * Netlify - client side
 
