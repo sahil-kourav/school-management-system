@@ -17,14 +17,12 @@ const Homepage = () => {
                         <StyledTitle>
                             Welcome to
                             <br />
-                            School Management
-                            <br />
-                            System
+                            Programmers Point ERP
                         </StyledTitle>
                         <StyledText>
-                            Streamline school management, class organization, and add students and faculty.
-                            Seamlessly track attendance, assess performance, and provide feedback.
-                            Access records, view marks, and communicate effortlessly.
+                        Programmers Point ERP simplifies class management, student and faculty administration. Effortlessly 
+                        track attendance, evaluate performance, and provide insightful feedback. Access records, monitor marks,
+                        and communicate seamlessly.
                         </StyledText>
                         <StyledBox>
                             <StyledLink to="/choose">

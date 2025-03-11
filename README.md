@@ -1,9 +1,9 @@
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    Programmers Point ERP
 </h1>
 
 <h3 align="center">
-Streamline school management, class organization, and add students and faculty.<br>
+Streamline Programmers Point ERP, class organization, and add students and faculty.<br>
 Seamlessly track attendance, assess performance, and provide feedback. <br>
 Access records, view marks, and communicate effortlessly.
 </h3>
@@ -12,7 +12,7 @@ Access records, view marks, and communicate effortlessly.
 
 # About
 
-The School Management System is a web-based application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to streamline school management, class organization, and facilitate communication between students, teachers, and administrators.
+The Programmers Point ERP is a web-based application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to streamline, class organization, and facilitate communication between students, teachers, and administrators.
 
 ## Features
 
@@ -39,7 +39,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/sahil-kourav/school-management-system.git
+git clone (Repository_URL)
 ```
 Open 2 terminals in separate windows/tabs.
 
@@ -54,7 +54,7 @@ Create a file called .env in the backend folder.
 Inside it write this :
 
 ```sh
-MONGO_URL = mongodb://127.0.0.1/school
+MONGO_URL = mongodb://127.0.0.1/college
 ```
 If you are using MongoDB Compass you can use this database link but if you are using MongoDB Atlas then instead of this link write your own database link.
 
